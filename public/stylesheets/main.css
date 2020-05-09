@@ -1,0 +1,29 @@
+@import 'header.css';
+@import 'buttons.css';
+
+:root {
+    font-family: 'Montserrat', sans-serif;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    background: #d4dcff;
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+    margin: 3rem;
+}
+
+.inner-container{
+    margin: 0 2rem;
+}
+
+.page-header{
+    font-size: 2rem;
+    font-weight: bold;
+}
