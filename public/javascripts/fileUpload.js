@@ -1,6 +1,6 @@
 const rootStyles = window.getComputedStyle(document.documentElement)
 
-if (rootStyles.)
+if (rootStyles)
 
 FilePond.registerPlugin(
     FilePondPluginImagePreview,
